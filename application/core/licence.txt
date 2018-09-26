@@ -1,0 +1,1 @@
+{"is_active":"2fe9e9e569419347f2f593c40cda8abc","purchase_code":"DEMO","item_name":"DEMO_VERSION","buy_at":"2018-09-26 15:21:05","licence_type":"FULL","domain":"ALL","checking_date":"2018-09-26"}
